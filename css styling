@@ -1,0 +1,48 @@
+start page:
+<head>
+<style type = "text/css">
+h1{ color: black;
+background-color: grey;
+border-color: black;
+border-width: .15em;
+border-style: outset;}
+h2{color: black;
+background-color: grey;
+font-family: sans-serif;
+border-color: black;
+border-width: .15em;
+border-style: outset;}
+img{border-color: black;
+border-width: .25em;
+border-style: ridge;}
+
+
+page 1 and 7
+<head>
+<style type = "text/css">
+body{color: white;
+background-color: lilac;}
+
+p{ color: white;
+background-color: grey;
+border-color: black;
+border-width: .25em;
+border-style: ridge;}
+h2{color: white; background-color: grey;
+border-color: black;
+border-width: .25em;
+border-style: ridge;}
+
+</style>
+
+pages2-6
+<head>
+<style type = "text/css">
+body {
+  color: black;
+  background-color: white;}
+  H1{
+    color: grey;
+    background-color: lilac;}
+    p{ font-family: Calibre; }
+    </style>
